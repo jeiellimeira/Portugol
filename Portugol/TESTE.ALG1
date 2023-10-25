@@ -1,0 +1,11 @@
+algoritmo "tipoDados"
+var
+
+inicio
+
+escreval ("tipo de caracteres: joana")
+escreval ("idade: ", 9)
+escreval ("altura: ", 1.40)
+escreval("crianca: " , verdadeiro)
+
+fimalgoritmo
