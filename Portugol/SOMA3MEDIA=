@@ -1,0 +1,23 @@
+Algoritmo "soma3"
+
+Var
+n1,n2,n3,m:real
+
+// media = m
+//n = numero
+
+Inicio
+escreval("digite o 1º numero: ")
+leia(n1)
+escreval("digite o 2º numero:")
+leia(n2)
+escreval("digite o 3º numero:")
+leia(n3)
+
+ m <- n1+n2+n3
+escreval("soma e media dos numeros: ")
+escreval(" o resultado da soma e: ", n1+n2+n3)
+escreval(" o resultado da media e: ", m/3)
+
+
+Fimalgoritmo
